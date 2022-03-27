@@ -1,2 +1,33 @@
-# Awesome-Security-ML
-Machine Learning for Cyber Security 
+# Awesome Cyber Security Datasets 
+Good for Developing Machine Learning Algorithms for cyber security detection and response 
+
+## Datasets
+* [Microsoft Malware Datasets](https://www.kaggle.com/competitions/microsoft-malware-prediction/data)
+* [HIKARI-2021 Datasets](https://zenodo.org/record/5199540)
+* [Security Data Sets](https://github.com/OTRF/Security-Datasets)
+* [Boss of the SOC Datasets](https://botes.gitbook.io/botes-dataset/)
+* [Samples of Security Related Data](http://www.secrepo.com/)
+* [DARPA Intrusion Detection Data Sets](https://www.ll.mit.edu/r-d/datasets) [ [1998](https://www.ll.mit.edu/r-d/datasets/1998-darpa-intrusion-detection-evaluation-dataset) / [1999](https://www.ll.mit.edu/r-d/datasets/1999-darpa-intrusion-detection-evaluation-dataset) ]
+* [Stratosphere IPS Data Sets](https://stratosphereips.org/category/dataset.html)
+* [Open Data Sets](http://csr.lanl.gov/data/)
+* [Data Capture from National Security Agency](http://www.westpoint.edu/crc/SitePages/DataSets.aspx)
+* [The ADFA Intrusion Detection Data Sets](https://www.unsw.adfa.edu.au/australian-centre-for-cyber-security/cybersecurity/ADFA-IDS-Datasets/)
+* [NSL-KDD Data Sets](https://github.com/defcom17/NSL_KDD)
+* [Malicious URLs Data Sets](http://sysnet.ucsd.edu/projects/url/)
+* [Multi-Source Cyber-Security Events](http://csr.lanl.gov/data/cyber1/)
+* [KDD Cup 1999 Data](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html)
+* [Web Attack Payloads](https://github.com/foospidy/payloads)
+* [WAF Malicious Queries Data Sets](https://github.com/faizann24/Fwaf-Machine-Learning-driven-Web-Application-Firewall)
+* [Malware Training Data Sets](https://github.com/marcoramilli/MalwareTrainingSets)
+* [Aktaion Data Sets](https://github.com/jzadeh/Aktaion/tree/master/data)
+* [CRIME Database from DeepEnd Research](https://www.dropbox.com/sh/7fo4efxhpenexqp/AADHnRKtL6qdzCdRlPmJpS8Aa/CRIME?dl=0)
+* [Publicly available PCAP files](http://www.netresec.com/?page=PcapFiles)
+* [2007 TREC Public Spam Corpus](https://plg.uwaterloo.ca/~gvcormac/treccorpus07/)
+* [Drebin Android Malware Dataset](https://www.sec.cs.tu-bs.de/~danarp/drebin/)
+* [PhishingCorpus Datset](https://monkey.org/~jose/phishing/)
+* [EMBER](https://github.com/endgameinc/ember)
+* [Vizsec Research](https://vizsec.org/data/)
+* [SHERLOCK](http://bigdata.ise.bgu.ac.il/sherlock/index.html#/)
+* [Probing / Port Scan - Dataset ](https://github.com/gubertoli/ProbingDataset)
+* [Aegean Wireless Intrusion Dataset (AWID)](http://icsdweb.aegean.gr/awid/)
+* [BODMAS PE Malware Dataset](https://whyisyoung.github.io/BODMAS/)
